@@ -1,4 +1,4 @@
 # URStreamSight
-Welcome to URStreamSight's official documentation website. This is a Software Systems Engineering Capstone project of Avery Cameron, Noah Rowbotham, and Raymond Knorr.
+Welcome to URStreamSight's official home for documentation. URStreamSight is a Software Systems Engineering Capstone project by Avery Cameron, Noah Rowbotham, and Raymond Knorr.
 
-Future documentation of projects and work will appear here. 
+Future documentation of the projects lifespan will appear here. 
