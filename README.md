@@ -4,6 +4,6 @@ Welcome to URStreamSight's official home for documentation. URStreamSight is a S
 Future documentation of the project's lifespan will appear here. 
 
 # Project Introduction Vlog
-The project introduction vlog can be found [here](https://youtu.be/39VHr7tC7xA).
+The project introduction vlog [video](https://youtu.be/39VHr7tC7xA) has been uploaded.
 
-The transcript for the vlog can be found [here](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Project%20Introduction%20Vlog.pdf).
+The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Project%20Introduction%20Vlog.pdf) for the vlog has been uploaded to GitHub for veiwing as well.
