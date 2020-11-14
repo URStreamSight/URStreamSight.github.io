@@ -19,3 +19,10 @@ The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/m
 
 [November 2 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/Nov%202%20Scrum.pptx)
 - Overall sofware architecture and initial ML results
+
+# Project Design Documentation
+[Hi-fidelity Prototype](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Hifi%20Prototype/Front%20End%20URStreamSight.pdf)
+- Hifi prototype design made in Balsamiq
+
+[Empathy Mapping](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Empathy%20Maps.pdf)
+- Empathy mapping for understanding the requirements of our design in the lense of household recyclers, municipal leadership, municipal analysts, and Prairie Robotics
