@@ -29,3 +29,6 @@ The project update #2 vlog [video](https://www.youtube.com/watch?v=z5juMZGassc&f
 
 [Empathy Mapping](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Empathy%20Maps.pdf)
 - Empathy mapping for understanding the requirements of our design in the lense of household recyclers, municipal leadership, municipal analysts, and Prairie Robotics
+
+[Expanded Rationale of our Project](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Expanded%20Project%20Rationale.pdf)
+- A write-up reinforcing our decisions and expanding on the why of what we are doing and the impact it may have
