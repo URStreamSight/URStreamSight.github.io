@@ -9,3 +9,6 @@ Here is our [vlog](https://youtu.be/39VHr7tC7xA) (hosted by YouTube) or you can 
 
 ## Project Update #1 Vlog
 Here is our [vlog](https://youtu.be/8GEqlb1gqcg) (hosted by YouTube) or you can view our video [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/October%2019th%20Vlog%20Script.pdf)
+
+## Project Update #2 Vlog
+Here is our [vlog](https://www.youtube.com/watch?v=z5juMZGassc&feature=youtu.be) (hosted by YouTube)
