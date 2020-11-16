@@ -13,6 +13,9 @@ The project update #1 vlog [video](https://youtu.be/8GEqlb1gqcg) has been upload
 
 The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/October%2019th%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing as well.
 
+# Project Update #2 Vlog
+The project update #2 vlog [video](https://www.youtube.com/watch?v=z5juMZGassc&feature=youtu.be) has been uploaded.
+
 # Project Scrum Presentations
 [October 5 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/Oct%205%20Scrum.pptx)
 - Lo-fi protoypes, and a lot of documentation
