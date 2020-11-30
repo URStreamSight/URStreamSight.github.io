@@ -23,6 +23,9 @@ The project update #2 vlog [video](https://www.youtube.com/watch?v=z5juMZGassc&f
 [November 2 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/Nov%202%20Scrum.pptx)
 - Overall sofware architecture and initial ML results
 
+[November 30 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/Nov%2030%20Scrum.pptx)
+- Initial frontend prototype, API documentation and CI/CD pipeline
+
 # Project Design Documentation
 [Hi-fidelity Prototype](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Hifi%20Prototype/Front%20End%20URStreamSight.pdf)
 - Hifi prototype design made in Balsamiq
