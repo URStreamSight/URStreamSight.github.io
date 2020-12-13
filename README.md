@@ -47,4 +47,4 @@ The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/m
 - A diagram presenting our overall architecture for our project
 
 [CICD Pipeline](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Architecture/CICD%20Pipeline%20Architecture.pdf)
-- our current CICD pipeline
+- Our current CICD pipeline
