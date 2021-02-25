@@ -53,3 +53,6 @@ The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/m
 
 [CICD Pipeline](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Architecture/CICD%20Pipeline%20Architecture.pdf)
 - Our current CICD pipeline
+
+# Project Demos
+This [video]() demos streamsight-io (ssio) and our bin detection model. Specifically, how ssio creates and uploads bin tip samples to our Amazon S3 cloud storage. This process creates data for running contaminant classification on, as well as creating training data for our contaminant classification model.
