@@ -23,6 +23,11 @@ The project update #3 vlog [video](https://youtu.be/HCdGqYI7T_w)
 
 The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2020-12-14%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing as well.
 
+# Project Update #4 Vlog
+The project update #4 vlog [video](https://youtu.be/GGd6oA8uBCE)
+
+The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2021-02-04%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing as well.
+
 # Project Scrum Presentations
 [October 5 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/Oct%205%20Scrum.pptx)
 - Lo-fi protoypes, and a lot of documentation
