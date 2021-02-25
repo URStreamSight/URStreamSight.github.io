@@ -17,3 +17,6 @@ Here is our [vlog](https://www.youtube.com/watch?v=z5juMZGassc&feature=youtu.be)
 
 ## Project Update #3 Vlog
 Here is our [vlog](https://youtu.be/HCdGqYI7T_w) (hosted by YouTube) or you can view our video [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2020-12-14%20Vlog%20Script.pdf)
+
+# Project Update #4 Vlog
+Here is our [vlog](https://youtu.be/GGd6oA8uBCE)(hosted by YouTube) or you can view our video [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2021-02-04%20Vlog%20Script.pdf)
