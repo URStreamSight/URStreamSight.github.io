@@ -56,4 +56,4 @@ The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/m
 
 # Project Demos
 ## StreamSight-io (SSIO) Demo
-This [video]() demos streamsight-io and our bin detection model. Specifically, how ssio creates and uploads bin tip samples to our Amazon S3 cloud storage. This process creates data for running contaminant classification on, as well as creating training data for our contaminant classification model.
+This [video](https://youtu.be/qqWzKBt7qy4) demos streamsight-io and our bin detection model. Specifically, how ssio creates and uploads bin tip samples to our Amazon S3 cloud storage. This process creates data for running contaminant classification on, as well as creating training data for our contaminant classification model.
