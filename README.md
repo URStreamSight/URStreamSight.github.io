@@ -38,7 +38,20 @@ The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/m
 [November 30 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/Nov%2030%20Scrum.pptx)
 - Initial frontend prototype, API documentation and CI/CD pipeline
 
+[January 21 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/Jan%2021%20Scrum.pptx)
+- Nx Monorepo | Nest API w/ RBAC and DB Integration and Image Pipeline
+
+[February 25 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/Feb%2025%20Scrum.pptx)
+- Front end migration, API Refactoring, Integration tools research, aaeon boad setup
+
+[March 4 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/March%204%20Scrum.pptx)
+- AWS Configuration, Front and Back end deployment, front end pages and mock data
+
 # Project Design Documentation
+Our documentation is available for viewing as well as an archive for updates.
+We have completed Business case and Project Charter, Milestone schedule,
+Project Scope and Quality Assurance Plans, Risk Analysis and Response Plans as well as other documentation that will help explain our rationale, process, plans and other information you may find interesting.
+
 [Hi-fidelity Prototype](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Hifi%20Prototype/Front%20End%20URStreamSight.pdf)
 - Hifi prototype design made in Balsamiq
 
