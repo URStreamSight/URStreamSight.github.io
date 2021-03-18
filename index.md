@@ -21,6 +21,11 @@ Here is our [vlog](https://youtu.be/HCdGqYI7T_w) (hosted by YouTube) or you can 
 ## Project Update #4 Vlog
 Here is our [vlog](https://youtu.be/GGd6oA8uBCE)(hosted by YouTube) or you can view our video [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2021-02-04%20Vlog%20Script.pdf)
 
+# Project Update #5 Vlog
+The project update #5 vlog [video](https://youtu.be/F_COZzJo2E0)
+
+The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2021-03-18%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing, as well as the [presentation](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2021-03-18%20Vlog%20Presentation.pdf)
+
 # Project Demos
 ## StreamSight-io (SSIO) Demo
 This [video](https://youtu.be/qqWzKBt7qy4) demos streamsight-io and our bin detection model. Specifically, how ssio creates and uploads bin tip samples to our Amazon S3 cloud storage. This process creates data for running contaminant classification on, as well as creating training data for our contaminant classification model.
