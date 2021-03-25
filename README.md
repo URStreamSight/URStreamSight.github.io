@@ -75,3 +75,6 @@ Project Scope and Quality Assurance Plans, Risk Analysis and Response Plans as w
 # Project Demos
 ## StreamSight-io (SSIO) Demo
 This [video](https://youtu.be/qqWzKBt7qy4) demos streamsight-io and our bin detection model. Specifically, how ssio creates and uploads bin tip samples to our Amazon S3 cloud storage. This process creates data for running contaminant classification on, as well as creating training data for our contaminant classification model.
+
+## Streamsight End-to-End Demo
+This [video](https://youtu.be/CYLs5wbPKI4) is a working demo of our URStreamsight product. You can see a sample input video, bin detection, uploading of files to S3, and finally the inference results displayed on the map page of our frontend.
