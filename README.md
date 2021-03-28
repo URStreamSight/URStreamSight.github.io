@@ -52,6 +52,8 @@ The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/m
 [March 4 Scrum](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/March%204%20Scrum.pptx)
 - AWS Configuration, Front and Back end deployment, front end pages and mock data
 
+[March 25 Scrum Project Bazaar](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Scrum/March%2025%20Project%20Bazaar.pptx)
+- AWS Architecture, Front End Demo, End-to-End demo
 # Project Design Documentation
 Our documentation is available for viewing as well as an archive for updates.
 We have completed Business case and Project Charter, Milestone schedule,
