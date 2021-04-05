@@ -32,3 +32,7 @@ This [video](https://youtu.be/qqWzKBt7qy4) demos streamsight-io and our bin dete
 
 ## Streamsight End-to-End Demo
 This [video](https://youtu.be/CYLs5wbPKI4) is a working demo of our URStreamsight product. You can see a sample input video, bin detection, uploading of files to S3, and finally the inference results displayed on the map page of our frontend.
+
+# Project Rationalization
+## RBAC Vision and Explanation
+This [document](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/RBAC%20Vision%20&Explanation.pdf) is an explanation and layout of our RBAC vision. This document describes what RBAC is, our implementation and future improvements that could be made.
