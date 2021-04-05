@@ -83,4 +83,4 @@ This [video](https://youtu.be/CYLs5wbPKI4) is a working demo of our URStreamsigh
 
 # Project Rationalization
 ## RBAC Vision and Explanation
-This [document](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/RBAC%20Vision%20&Explanation.pdf) is an explanation and layout of our RBAC vision. This document describes what RBAC is, our implementation and future improvements that could be made.
+This [document](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/RBAC%20Vision%20and%20Justification.pdf) is an explanation and layout of our RBAC vision. This document describes what RBAC is, our implementation and future improvements that could be made.
