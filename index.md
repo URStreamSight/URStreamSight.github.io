@@ -1,6 +1,9 @@
 # Home of URStreamSight
 **This project is being done in collaboration with [Prairie Robotics](http://www.prairierobotics.com/)**
 
+## StreamSight Comercial
+As our project comes to a close, [here](https://youtu.be/Qv-Nojs-Al0) is a comercial demonstrating the problem we are trying to solve and how.
+
 ## Project Design Documentation
 You can view a Hi-fidelity prototype of our envisoned UI [here](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Hifi%20Prototype/Front%20End%20URStreamSight.pdf)
 
