@@ -1,35 +1,40 @@
 # Home of URStreamSight
 **This project is being done in collaboration with [Prairie Robotics](http://www.prairierobotics.com/)**
 
-## StreamSight Comercial
-As our project comes to a close, [here](https://youtu.be/Qv-Nojs-Al0) is a comercial demonstrating the problem we are trying to solve and how.
+# StreamSight Comercial
+As our project comes to a close, [here](https://youtu.be/Qv-Nojs-Al0) is a comercial serving as a light introduction to the problem we are solving and how.
 
-## Project Design Documentation
-You can view a Hi-fidelity prototype of our envisoned UI [here](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Hifi%20Prototype/Front%20End%20URStreamSight.pdf)
+# Project Introduction Vlog
+The project introduction vlog [video](https://youtu.be/39VHr7tC7xA) has been uploaded.
 
-You can view our overall project architecture [here](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/Architecture/Overall%20Architecture.pdf)
+The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Presentations/Vlog%20Transcripts/2020-09-21%20Project%20Introduction%20Vlog.pdf) for the vlog has been uploaded to GitHub for veiwing as well.
 
-## Project Introduction Vlog
-Here is our [vlog](https://youtu.be/39VHr7tC7xA) (hosted by YouTube) or you can view our video [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2020-09-21%20Project%20Introduction%20Vlog.pdf)
+# Project Update #1 Vlog
+The project update #1 vlog [video](https://youtu.be/8GEqlb1gqcg) has been uploaded.
 
-## Project Update #1 Vlog
-Here is our [vlog](https://youtu.be/8GEqlb1gqcg) (hosted by YouTube) or you can view our video [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2020-10-19%20Vlog%20Script.pdf)
+The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Presentations/Vlog%20Transcripts/2020-10-19%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing as well.
 
-## Project Update #2 Vlog
-Here is our [vlog](https://www.youtube.com/watch?v=z5juMZGassc&feature=youtu.be) (hosted by YouTube) or you can view our video [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2020-11-16%20Vlog%20Script.pdf)
+# Project Update #2 Vlog
+The project update #2 vlog [video](https://www.youtube.com/watch?v=z5juMZGassc&feature=youtu.be) has been uploaded.
 
-## Project Update #3 Vlog
-Here is our [vlog](https://youtu.be/HCdGqYI7T_w) (hosted by YouTube) or you can view our video [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2020-12-14%20Vlog%20Script.pdf)
+The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Presentations/Vlog%20Transcripts/2020-11-16%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing as well.
 
-## Project Update #4 Vlog
-Here is our [vlog](https://youtu.be/GGd6oA8uBCE)(hosted by YouTube) or you can view our video [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2021-02-04%20Vlog%20Script.pdf)
+# Project Update #3 Vlog
+The project update #3 vlog [video](https://youtu.be/HCdGqYI7T_w)
 
-## Project Update #5 Vlog
+The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Presentations/Vlog%20Transcripts/2020-12-14%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing as well.
+
+# Project Update #4 Vlog
+The project update #4 vlog [video](https://youtu.be/GGd6oA8uBCE)
+
+The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Presentations/Vlog%20Transcripts/2021-02-04%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing as well.
+
+# Project Update #5 Vlog
 The project update #5 vlog [video](https://youtu.be/F_COZzJo2E0)
 
-The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2021-03-18%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing, as well as the [presentation](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Vlog%20Transcripts/2021-03-18%20Vlog%20Presentation.pptx) 
+The [transcript](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Presentations/Vlog%20Transcripts/2021-03-18%20Vlog%20Script.pdf) for the vlog has been uploaded to GitHub for viewing, as well as the [presentation](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Presentations/Vlog%20Transcripts/2021-03-18%20Vlog%20Presentation.pptx) 
 
-## Project Update #6 Vlog
+# Project Update #6 Vlog
 The project update #6 vlog [video](https://youtu.be/L6oKluYa36k)
 
 # Project Demos
@@ -41,4 +46,4 @@ This [video](https://youtu.be/CYLs5wbPKI4) is a working demo of our URStreamsigh
 
 # Project Rationalization
 ## RBAC Vision and Explanation
-This [document](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/RBAC%20Vision%20and%20Justification.pdf) is an explanation and layout of our RBAC vision. This document describes what RBAC is, our implementation and future improvements that could be made.
+This [document](https://github.com/URStreamSight/URStreamSight.github.io/blob/master/Documentation/8%20-%20Project%20Rationalizations/RBAC%20Vision%20%26%20Justification.pdf) is an explanation and layout of our RBAC vision. This document describes what RBAC is, our implementation and future improvements that could be made.
