@@ -3,8 +3,8 @@ Welcome to URStreamSight's official home for documentation. URStreamSight is a S
 
 Future documentation of the project's lifespan will appear here. 
 
-# StreamSight Comercial
-As our project comes to a close, [here](https://youtu.be/Qv-Nojs-Al0) is a comercial serving as a light introduction to the problem we are solving and how.
+# StreamSight Commercial
+As our project comes to a close, [here](https://youtu.be/Re9pPXRKULg) is a commercial serving as a light introduction to the problem we are solving and how.
 
 # Project Introduction Vlog
 The project introduction vlog [video](https://youtu.be/39VHr7tC7xA) has been uploaded.
