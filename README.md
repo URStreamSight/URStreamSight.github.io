@@ -1,7 +1,7 @@
 # URStreamSight
 Welcome to URStreamSight's official home for documentation. URStreamSight is a Software Systems Engineering Capstone project by Avery Cameron, Noah Rowbotham, and Raymond Knorr.
 
-Future documentation of the project's lifespan will appear here. 
+URStreamSight is the Recipient of the 2021 Capstone Project Prize in Software Systems Engineering from the University of Regina.
 
 # StreamSight Commercial
 As our project comes to a close, [here](https://youtu.be/Re9pPXRKULg) is a commercial serving as a light introduction to the problem we are solving and how.
